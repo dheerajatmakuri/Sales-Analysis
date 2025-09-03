@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/f1878605-036a-4895-9550-445829fb1819)
+
+
+<img width="1200" height="630" alt="1_0mR9gEiVu3oLxSeABixErw" src="https://github.com/user-attachments/assets/6453f887-b626-4810-96a6-45524ed3e13c" />
+
 
 # Apple Sales Analysis - SQL [Dataset - 1M+]
 
